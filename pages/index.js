@@ -809,7 +809,7 @@ export default class Index extends Component {
         {board && this.renderPuzzle()}
         {board && this.renderControls()}
         <div className="rooter">
-          Made with <span>❤️</span>️ By <a href="https://www.sitianliu.com/">Sitian Liu</a> | <a href="https://medium.com/@sitianliu_57680/building-a-sudoku-game-in-react-ca663915712">Blog Post</a>
+          Made with <span>❤️</span>️ By <a href="https://www.gtdstudy.com/">Yibie</a> 
         </div>
         { /* language=CSS */ }
         <style jsx>{`
